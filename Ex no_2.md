@@ -11,8 +11,8 @@ To write a program to check whether the attendance is PRESENT using simple if st
 5. Check whether the attendance is PRESENT.
 6. If true, print "Present".
 7. If false, print " ".
-8. End. 
-
+8. End.
+   
 ## Program:
 ```
 program to check whether the attendance is PRESENT using simple if statement
