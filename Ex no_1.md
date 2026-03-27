@@ -8,8 +8,8 @@ To write a program to initialize the value as 5.8 & display the same.
 2. Declare a variable value of type float.
 3. Initialize value with 5.8.
 4. Display the value using printf.
-5. End.   
-
+5. End.
+6. 
 ## Program:
 ```
 program to initialize the value as 5.8 & display the same
